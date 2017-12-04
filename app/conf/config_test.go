@@ -1,8 +1,8 @@
 package conf
 
 import (
-	"github.com/p4tin/goaws/app/gosns"
-	"github.com/p4tin/goaws/app/gosqs"
+	"github.com/lanzafame/goaws/app/gosns"
+	"github.com/lanzafame/goaws/app/gosqs"
 	"testing"
 )
 
